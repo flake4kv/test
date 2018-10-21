@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class PagesController extends Controller
 {
     public function index() {
-        $data = [jj
+        $data = [
             'title' => 'Services'
         ];
         $title = 'Welcome to Laravel';
